@@ -5,8 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp5"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="582" Width="378">
     <Grid>
+        <Button x:Name="FirstCourse" Content="Первые блюда" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="116" Foreground="White" Background="Black" />
+        <Button x:Name="SecondCourse" Content="Вторые блюда" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="116" Foreground="White" Background="Black" />
+        <Button x:Name="Salad" Content="Салаты" HorizontalAlignment="Left" Margin="252,10,0,0" VerticalAlignment="Top" Width="116" Foreground="White" Background="Black" />
+        <Button x:Name="Dessert" Content="Десерты" HorizontalAlignment="Center" Margin="0,35,0,0" VerticalAlignment="Top" Width="358" Foreground="White" Background="Black" />
+        <Button x:Name="FindRecipe" Content="Поиск рецептов" HorizontalAlignment="Left" Margin="10,536,0,0" VerticalAlignment="Top" Width="170" Foreground="White" Background="Black" />
+        <Button x:Name="AddRecipe" Content="Добавить рецепт" HorizontalAlignment="Left" Margin="198,536,0,0" VerticalAlignment="Top" Width="170" Foreground="White" Background="Black" />
+        <ListBox Foreground="White" Background="Black" Margin="10,60,10,35"/>
 
     </Grid>
 </Window>

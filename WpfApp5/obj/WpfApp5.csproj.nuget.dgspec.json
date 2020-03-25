@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ПК\\source\\repos\\WpfApp5\\WpfApp5\\WpfApp5.csproj": {}
+    "C:\\Users\\askar\\Desktop\\Новая папка\\ProjectWork\\WpfApp5\\WpfApp5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ПК\\source\\repos\\WpfApp5\\WpfApp5\\WpfApp5.csproj": {
+    "C:\\Users\\askar\\Desktop\\Новая папка\\ProjectWork\\WpfApp5\\WpfApp5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ПК\\source\\repos\\WpfApp5\\WpfApp5\\WpfApp5.csproj",
+        "projectUniqueName": "C:\\Users\\askar\\Desktop\\Новая папка\\ProjectWork\\WpfApp5\\WpfApp5.csproj",
         "projectName": "WpfApp5",
-        "projectPath": "C:\\Users\\ПК\\source\\repos\\WpfApp5\\WpfApp5\\WpfApp5.csproj",
-        "packagesPath": "C:\\Users\\ПК\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ПК\\source\\repos\\WpfApp5\\WpfApp5\\obj\\",
+        "projectPath": "C:\\Users\\askar\\Desktop\\Новая папка\\ProjectWork\\WpfApp5\\WpfApp5.csproj",
+        "packagesPath": "C:\\Users\\askar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\askar\\Desktop\\Новая папка\\ProjectWork\\WpfApp5\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ПК\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\askar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -52,6 +47,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -60,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

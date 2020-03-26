@@ -14,7 +14,7 @@
         <Button x:Name="Dessert" Content="Десерты" HorizontalAlignment="Center" Margin="0,35,0,0" VerticalAlignment="Top" Width="358" Foreground="White" Background="Black" />
         <Button x:Name="FindRecipe" Content="Поиск рецептов" HorizontalAlignment="Left" Margin="10,536,0,0" VerticalAlignment="Top" Width="170" Foreground="White" Background="Black" />
         <Button x:Name="AddRecipe" Content="Добавить рецепт" HorizontalAlignment="Left" Margin="198,536,0,0" VerticalAlignment="Top" Width="170" Foreground="White" Background="Black" />
-        <ListBox Foreground="White" Background="Black" Margin="10,60,10,29"/>
+        <ListView Foreground="White" Background="Black" Margin="10,60,10,29"/>
 
     </Grid>
 </Window>

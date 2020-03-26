@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\askar\\Desktop\\Новая папка\\ProjectWork\\WpfApp5\\WpfApp5.csproj": {}
+    "C:\\Users\\askar\\Desktop\\Новая папка (2)\\ProjectWork\\WpfApp5\\WpfApp5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\askar\\Desktop\\Новая папка\\ProjectWork\\WpfApp5\\WpfApp5.csproj": {
+    "C:\\Users\\askar\\Desktop\\Новая папка (2)\\ProjectWork\\WpfApp5\\WpfApp5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\askar\\Desktop\\Новая папка\\ProjectWork\\WpfApp5\\WpfApp5.csproj",
+        "projectUniqueName": "C:\\Users\\askar\\Desktop\\Новая папка (2)\\ProjectWork\\WpfApp5\\WpfApp5.csproj",
         "projectName": "WpfApp5",
-        "projectPath": "C:\\Users\\askar\\Desktop\\Новая папка\\ProjectWork\\WpfApp5\\WpfApp5.csproj",
+        "projectPath": "C:\\Users\\askar\\Desktop\\Новая папка (2)\\ProjectWork\\WpfApp5\\WpfApp5.csproj",
         "packagesPath": "C:\\Users\\askar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\askar\\Desktop\\Новая папка\\ProjectWork\\WpfApp5\\obj\\",
+        "outputPath": "C:\\Users\\askar\\Desktop\\Новая папка (2)\\ProjectWork\\WpfApp5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\askar\\AppData\\Roaming\\NuGet\\NuGet.Config",
